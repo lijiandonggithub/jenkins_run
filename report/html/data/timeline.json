@@ -1,0 +1,49 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "DESKTOP-O35TFJO",
+    "children" : [ {
+      "name" : "3244-MainThread",
+      "children" : [ {
+        "name" : "test_login_002",
+        "uid" : "5c4045d3a8bf4e95",
+        "parentUid" : "225ff947ac6867ab540ef7ee2ca6894b",
+        "status" : "passed",
+        "time" : {
+          "start" : 1585418096370,
+          "stop" : 1585418096370,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_login_001",
+        "uid" : "bd7d2f2e7c29ab59",
+        "parentUid" : "225ff947ac6867ab540ef7ee2ca6894b",
+        "status" : "failed",
+        "time" : {
+          "start" : 1585418096354,
+          "stop" : 1585418096354,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_login_003",
+        "uid" : "12fb405b329ff8b",
+        "parentUid" : "225ff947ac6867ab540ef7ee2ca6894b",
+        "status" : "passed",
+        "time" : {
+          "start" : 1585418096371,
+          "stop" : 1585418096371,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "225ff947ac6867ab540ef7ee2ca6894b"
+    } ],
+    "uid" : "7f535dac0d233a80775aed7e00dd093f"
+  } ]
+}
